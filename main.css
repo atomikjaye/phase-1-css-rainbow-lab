@@ -19,7 +19,7 @@ div {
 }
 
 #red {
-  /* Sets top line to red*/
+  /* Sets first line to red */
   border-top-color: #f00;
 }
 
@@ -29,17 +29,17 @@ div {
 }
 
 #yellow {
-  /* Thirs line yellow */
+  /* Sets third line yellow */
   border-top-color: #ff0;
 }
 
 #green {
-  /* Fourth line to green */
+  /* Sets fourth line to green */
   border-top-color: #00bc3f;
 }
 
 #blue {
-  /* Fifth Line to blue */
+  /* Sets fifth Line to blue */
   border-top-color: #06f;
 }
 
